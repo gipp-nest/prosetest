@@ -1,0 +1,60 @@
+en:
+  www:
+    smoke_alarm:
+      life_with_nest_protect:
+        title: "Life with Nest Protect"
+
+        intro_header: "Safety shouldn&rsquo;t be annoying."
+        intro_p1_a: "We all know why smoke alarms are torn off the ceiling or missing batteries: because every time you make stir-fry, the smoke alarm cries wolf."
+        intro_p1_b: "Or just as you’re falling asleep, you hear a low-battery chirp. They’ve become annoying. And that’s a safety issue."
+        intro_p2: "According to the <a href='%{smoke_co_alarm.national_fire_protection_association}' title='National Fire Protection Association (NFPA)'>National Fire Protection Association (NFPA)</a>, almost two-thirds of US home fire deaths happened in homes with no smoke alarm or no working smoke alarm."
+        intro_p3: "So we made something new. Meet the Nest Protect smoke and carbon monoxide (CO) alarm."
+        intro_pullquote: "We made a smoke <span>and CO alarm you&rsquo;ll love,</span> <span>because hating it is dangerous.</span>"
+
+        heads_up_nav: "Heads-Up"
+        heads_up_header: "Burned the toast? Nest Protect won&rsquo;t just start yelling at you."
+        heads_up_p1: "Before turning on a loud, howling alarm, Nest Protect gives you an early warning we call Heads-Up. Nest Protect lights up yellow and speaks with a human voice. It tells you where smoke is or when carbon monoxide levels are rising. This gives you an earlier warning if there’s an emergency, or allows you to silence Nest Protect if it’s just a nuisance alarm, like an overly enthusiastic toaster."
+        heads_up_link: "Learn about Heads-Up"
+        heads_up_header2: "Silence alarms with a wave."
+        heads_up_p2: "No more frantically swinging towels at the smoke alarm to quiet it down. If there’s a nuisance alarm, just stand under Nest Protect and wave your arm to hush the alert. As you wave, your hand should be 2-8 feet away from the alarm."
+        heads_up_link2: "How Nest Wave works"
+
+        connected_nav: "Always connected"
+        connected_slide_1_header: "Always know. From anywhere."
+        connected_slide_1_p1: "Get a message on your smartphone or tablet if the smoke or carbon monoxide alarm goes off."
+        connected_slide_2_header: "Sleep safe and sound."
+        connected_slide_2_p1: "Nest Protect constantly monitors its batteries and sensors. If the batteries are low, you’ll get a message on your phone."
+        connected_slide_2_p2: "You can get new batteries long before an annoying, low-battery chirp jolts you awake at 2am."
+        connected_slide_3_header: "Know what to do."
+        connected_slide_3_p1: "Nest Protect helps you prepare for an emergency with our What To Do feature. You can enter an emergency contact and when something goes wrong, you’ve got a plan."
+
+        clear_voice_nav: "A clear voice"
+        clear_voice_bubble: "<span>&ldquo;</span>Emergency. There&rsquo;s smoke in the bedroom.&rdquo;"
+        clear_voice_header: "A clear voice when <span>things go wrong.</span>"
+        clear_voice_p1: "In addition to an alarm sound, Nest Protect speaks to you with a human voice. It tells you what the problem is and where it is. And if you have more than one Nest Protect, they connect so they can speak up at the same time even if Wi-Fi is down."
+        clear_voice_p2: "Voice alarms can be important to your family’s safety. You have more information when seconds count. And according to a <a href='%{smoke_co_alarm.life_with_voice_study}' title='study'>study</a>, children can sleep through a beeping alarm. So Nest Protect sounds the alarm and uses a human voice to help kids wake up."
+        clear_voice_link: "Learn about emergency alarms"
+        clear_voice_min_requirements: "See minimum system requirements"
+
+        co_nav: "Carbon monoxide"
+        co_header: "Sees what&rsquo;s invisible."
+        co_p1: "You can’t see carbon monoxide. Or smell it. It’s a silent killer that causes early symptoms that are easily mistaken for the flu. That’s why 39 US states have passed laws that make carbon monoxide alarms as common—and necessary—as smoke alarms."
+        co_p2: "So Nest Protect constantly looks for dangerous levels of carbon monoxide. You can’t see it, but Nest Protect can."
+        co_link: "Learn more"
+
+        nest_thermostat_nav: "Nest Thermostat"
+        nest_thermostat_header: "Works with your Nest Thermostat."
+        nest_thermostat_p1: "If Nest Protect’s carbon monoxide alarm goes off, your Nest Thermostat automatically turns off your gas furnace&mdash;a possible source of poisonous carbon monoxide leaks. In addition, the Nest Protect activity sensors improve the <a href='%{smoke_co_alarm.life_with_auto_away}' title='Auto-Away'>Auto-Away</a> feature of your Nest Thermostat."
+        nest_thermostat_link: "Learn how Nest Protect and Nest Thermostat work together"
+
+        pathlight_nav: "Pathlight"
+        pathlight_header: "You don&rsquo;t have to be afraid of the dark."
+        pathlight_p1: "Next time you stumble out of bed in the middle of the night, Nest Protect will automatically light your way. You can turn the Pathlight feature on or off using the Nest app."
+        pathlight_link: "Learn about Pathlight"
+
+        nightly_promise_nav: "Nightly Promise"
+        nightly_promise_header: "Makes you a promise."
+        nightly_promise_p1: "Low-battery chirps ever rattle your dreams? Nest Protect has a better way: Nightly Promise. It’s a quick green glow when the lights go out that means the batteries and sensors are working. It also means no dreaded chirps at midnight."
+        nightly_promise_p2: "If there’s an issue, like the batteries need replacing, the light ring will glow yellow. Just wave at Nest Protect and it will tell you what’s wrong."
+        nightly_promise_p3: "Sweet dreams."
+        nightly_promise_link: "Learn about Nightly Promise"
